@@ -1,0 +1,25 @@
+[
+    {
+        "id":1,
+        "title":"code refactor",
+        "github":"",
+        "live":"",
+        "screenshot":"/images/coderefactor.jpeg"
+    },
+
+    {
+        "id":2,
+        "title":"project 2",
+        "github":"",
+        "live":"",
+        "screenshot":"/images/coderefactor.jpeg"
+    },
+
+    {
+        "id":3,
+        "title":"project 3",
+        "github":"",
+        "live":"",
+        "screenshot":"/images/coderefactor.jpeg"
+    }
+]
